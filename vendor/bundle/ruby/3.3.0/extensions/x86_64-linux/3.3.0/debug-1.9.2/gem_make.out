@@ -1,0 +1,19 @@
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/home/diego/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-po2tgv sitelibdir\=./.gem.20241114-2668-po2tgv clean
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-po2tgv sitelibdir\=./.gem.20241114-2668-po2tgv
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-po2tgv sitelibdir\=./.gem.20241114-2668-po2tgv install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20241114-2668-po2tgv/debug
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-po2tgv sitelibdir\=./.gem.20241114-2668-po2tgv clean

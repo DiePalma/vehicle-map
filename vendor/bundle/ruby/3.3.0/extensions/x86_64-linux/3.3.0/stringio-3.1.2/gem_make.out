@@ -1,0 +1,18 @@
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.2/ext/stringio
+/home/diego/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-km5msi sitelibdir\=./.gem.20241114-2668-km5msi clean
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-km5msi sitelibdir\=./.gem.20241114-2668-km5msi
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-km5msi sitelibdir\=./.gem.20241114-2668-km5msi install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20241114-2668-km5msi
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-km5msi sitelibdir\=./.gem.20241114-2668-km5msi clean

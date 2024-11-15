@@ -1,0 +1,18 @@
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/home/diego/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-z7zyvq sitelibdir\=./.gem.20241114-2668-z7zyvq clean
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-z7zyvq sitelibdir\=./.gem.20241114-2668-z7zyvq
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-z7zyvq sitelibdir\=./.gem.20241114-2668-z7zyvq install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20241114-2668-z7zyvq/racc
+
+current directory: /home/diego/vehicle-map/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241114-2668-z7zyvq sitelibdir\=./.gem.20241114-2668-z7zyvq clean
