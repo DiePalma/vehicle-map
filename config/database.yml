@@ -83,4 +83,4 @@ production:
   <<: *default
   database: vehicle_map_production
   username: vehicle_map
-  password: <%= ENV["VEHICLE_MAP_DATABASE_PASSWORD"] %>
+  password: password

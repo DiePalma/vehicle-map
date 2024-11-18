@@ -9,7 +9,12 @@ Rails.application.routes.draw do
   # root "posts#index"
   namespace :api do
     namespace :v1 do
-      resources :waypoints, only: [:index, :show, :create, :update, :destroy]
+      #get 'gps', to: 'waypoints#index'
+      get 'show', to: 'waypoints#show'
+      post 'gps', to: 'waypoints#create' 
+      patch 'gps/:id', to: 'waypoints#update'
+      delete 'gps/:id', to: 'waypoints#destroy'
+     # resources :waypoints, only: [:index, :show, :create, :update, :destroy]
     end
   end
   
