@@ -1,6 +1,6 @@
 # README
 
-Prerequisitos:
+Pre-requisitos:
 
 
 * WSL o distribución de Linux
